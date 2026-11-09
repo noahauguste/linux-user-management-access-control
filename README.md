@@ -44,13 +44,13 @@ Built a Linux administration lab to practice secure remote access, user account 
 ## Evidence
 
 ### 1. User and group membership
-![User and group membership](screenshots/01_User_Group_Membership.png)
+![User and group membership](01_User_Group_Membership.png)
 
 ### 2. Directory and file permissions
-![Directory and file permissions](screenshots/02_File_Permissions.png)
+![Directory and file permissions](02_File_Permissions.png)
 
 ### 3. Read-only access verification
-![Successful read and blocked file modification](screenshots/03_Access_Control_Test.png)
+![Read-only access verification](03_Access_Control_Test.png)
 
 ## Key takeaways
 
